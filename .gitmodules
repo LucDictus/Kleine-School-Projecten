@@ -1,0 +1,12 @@
+[submodule "node-prettylog"]
+	path = node-prettylog
+	url = https://github.com/LucDictus/node-prettylog.git
+[submodule "rest-highscore"]
+	path = rest-highscore
+	url = https://github.com/LucDictus/rest-highscore.git
+[submodule "poppi-shop"]
+	path = poppi-shop
+	url = https://github.com/LucDictus/poppi-shop.git
+[submodule "democratische-bioscoop-app"]
+	path = democratische-bioscoop-app
+	url = https://github.com/ROC-Tilburg-ICT-Mediatechnologie/project-bioscoop-gio-luc.git
